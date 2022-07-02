@@ -1,0 +1,11 @@
+/* music container */
+.music{
+    width: 270px;
+    height: 210px;
+    background-color: #021f34;
+}
+
+/* heading for music */
+h2{
+    margin: 2px;
+}
